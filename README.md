@@ -2,6 +2,17 @@
 
 > Projeto focado na análise de dados de saúde e desenvolvimento de algoritmos de Machine Learning para predição e triagem de risco de câncer de pulmão.
 
+#👥 Desenvolvedores
+Agradecemos aos membros da equipe que tornaram este projeto possível:
+
+Andrei
+
+Davi Freitas
+
+Isabela Dumas
+
+Marcos
+
 ### 🚀 Status do Projeto: Concluído
 
 ---
@@ -50,3 +61,4 @@ pip install -r requirements.txt
 
 # 4. Executar o Streamlit
 streamlit run app.py
+
